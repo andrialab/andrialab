@@ -5,7 +5,6 @@ andrialab/andrialab is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Certainly! Below is a template for a GitHub README file tailored to showcase your portfolio. You can adjust the details to match your specific skills, projects, and background.
 
 ---
 
@@ -66,8 +65,8 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
 ## 📫 Contact Me
 
 - **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Personal Website](https://yourwebsite.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jiahuitang/)
+
 
 Thanks for visiting my GitHub portfolio! Feel free to reach out or connect—I'm always open to interesting discussions, new projects, and collaboration opportunities.
 
