@@ -1,11 +1,4 @@
-#Andria
-- 👋 Hi, I’m @andrialab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 andrialab/andrialab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,20 +9,19 @@ Certainly! Below is a template for a GitHub README file tailored to showcase you
 
 ---
 
-# 👋 Hi, I'm Andria T.!
+# 👋 Hi, I'm Andria !
 
 Welcome to my GitHub portfolio! 
 
-I'm a master student at Columbia with a passion for market risk management and quant research. Here, you'll find a collection of projects that reflect my skills, creativity, and dedication to continuous learning.
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m working on credit risk analytics
-- 😄 Pronouns: She/ Her
 
 ---
 
 ## 🌟 About Me
 
 - 💼 Currently master student at Columbia
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m working on credit risk analytics
+- 😄 Pronouns: She/ Her
 - 💡 Enthusiastic about exploring new technologies and taking on challenging problems
 - 🌍 Open to collaboration and networking opportunities with like-minded individuals
 
