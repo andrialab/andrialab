@@ -64,12 +64,10 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
 
 ## 📫 Contact Me
 
-- **Email**: [your.email@example.com]
+- **Email**: [jt3439@columbia.edu]
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jiahuitang/)
 
 
 Thanks for visiting my GitHub portfolio! Feel free to reach out or connect—I'm always open to interesting discussions, new projects, and collaboration opportunities.
 
---- 
 
-This template is a starting point; feel free to adjust sections based on your background, interests, and career goals. Adding relevant project links, a personal profile picture, and specific achievements will make it even more engaging.
