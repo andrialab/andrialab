@@ -16,16 +16,20 @@ Certainly! Below is a template for a GitHub README file tailored to showcase you
 
 ---
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Andria T.!
 
-Welcome to my GitHub portfolio! I'm a [Your Job Title, e.g., Software Engineer, Data Scientist, etc.] with a passion for [Your Areas of Interest, e.g., web development, data science, machine learning, etc.]. Here, you'll find a collection of projects that reflect my skills, creativity, and dedication to continuous learning.
+Welcome to my GitHub portfolio! 
+
+I'm a master student at Columbia with a passion for market risk management and quant research. Here, you'll find a collection of projects that reflect my skills, creativity, and dedication to continuous learning.
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m working on credit risk analytics
+- 😄 Pronouns: She/ Her
 
 ---
 
 ## 🌟 About Me
 
-- 💼 Currently working as a [Your Job Title] at [Your Company/Organization, if applicable]
-- 🎓 [Degree, e.g., Master's in Computer Science] from [Your University, if applicable]
+- 💼 Currently master student at Columbia
 - 💡 Enthusiastic about exploring new technologies and taking on challenging problems
 - 🌍 Open to collaboration and networking opportunities with like-minded individuals
 
@@ -33,11 +37,10 @@ Welcome to my GitHub portfolio! I'm a [Your Job Title, e.g., Software Engineer, 
 
 ## 🛠️ Skills
 
-- **Languages**: [List programming languages, e.g., Python, JavaScript, Java]
-- **Frameworks & Libraries**: [List frameworks and libraries, e.g., React, Django, Pandas]
-- **Tools**: [List tools, e.g., Git, Docker, VS Code, Jupyter Notebooks]
-- **Databases**: [List databases, e.g., MySQL, MongoDB, PostgreSQL]
-- **Other**: [Any other relevant skills, e.g., REST APIs, cloud computing]
+- **Languages**: Python, VBA, Matlab
+- **Frameworks & Libraries**: Pandas, Numpys
+- **Tools**: VS Code, Jupyter Notebooks
+
 
 ---
 
