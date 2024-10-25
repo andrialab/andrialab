@@ -64,7 +64,7 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
 
 ## 📫 Contact Me
 
-- **Email**: [jt3439@columbia.edu]
+- **Email**: jt3439@columbia.edu
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jiahuitang/)
 
 
