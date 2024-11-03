@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio!
 ## 🌟 About Me
 
 - 💼 Currently master student at Columbia
-- - 💞️ I’m working on credit risk analytics
+- 💞️ I’m working on credit risk analytics
 - 🌱 I’m learning machine learning
 - 😄 Pronouns: She/ Her
 - 💡 Enthusiastic about exploring new technologies and taking on challenging problems
