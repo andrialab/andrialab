@@ -18,8 +18,8 @@ Welcome to my GitHub portfolio!
 ## 🌟 About Me
 
 - 💼 Currently master student at Columbia
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m working on credit risk analytics
+- - 💞️ I’m working on credit risk analytics
+- 🌱 I’m learning machine learning
 - 😄 Pronouns: She/ Her
 - 💡 Enthusiastic about exploring new technologies and taking on challenging problems
 - 🌍 Open to collaboration and networking opportunities with like-minded individuals
@@ -54,11 +54,6 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
    - **Features**: [List core features, e.g., "Data Analysis", "Interactive Charts"]
    - **Link**: [GitHub Repo Link](URL) | [Live Demo](URL, if available)
 
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
