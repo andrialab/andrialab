@@ -42,7 +42,7 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
    - **Overview**: The goal of this project is to create a Probability of Default (PD) Model for banks and financial institutions. The model uses financial ratios and features derived from bank financial statements to predict whether a bank is likely to default within a specific time window. The analysis covers the entire process of data loading, cleaning, feature engineering, model building, and evaluation using ROC AUC scores.
    - **Link**: https://github.com/andrialab/Bank-Default-Predict--Logistic-Regression
 
-### 2. **Credit-Default-Simulation** - [Brief Description]
+### 2. **Credit-Default-Simulation** 
    - **Overview**: Calculate default rates using historical data and incorporate previous work on class structures and time series to generate simulated historical defaults.
    - **Link**: https://github.com/andrialab/Credit-Default-Simulation
 
