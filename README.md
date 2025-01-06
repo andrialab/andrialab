@@ -17,20 +17,19 @@ Welcome to my GitHub portfolio!
 
 ## 🌟 About Me
 
-- 💼 Currently master student at Columbia
+- 💼 Columbia Risk Mgmt Grad
 - 💞️ I’m working on credit risk analytics
 - 🌱 I’m learning machine learning
 - 😄 Pronouns: She/ Her
-- 💡 Enthusiastic about exploring new technologies and taking on challenging problems
-- 🌍 Open to collaboration and networking opportunities with like-minded individuals
+
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Python, VBA, Matlab
+- **Languages**: Python, VBA, SQL, Matlab
 - **Frameworks & Libraries**: Pandas, Numpys
-- **Tools**: VS Code, Jupyter Notebooks
+- **Tools**: VS Code, Jupyter Notebooks, Colab
 
 
 ---
@@ -60,7 +59,7 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
 ## 📫 Contact Me
 
 - **Email**: jt3439@columbia.edu
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jiahuitang/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jiahuitang/)
 
 
 Thanks for visiting my GitHub portfolio! Feel free to reach out or connect—I'm always open to interesting discussions, new projects, and collaboration opportunities.
