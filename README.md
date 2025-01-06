@@ -47,10 +47,6 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
    - **Link**: https://github.com/andrialab/Credit-Default-Simulation
 
 
-### 3. **[Project Name]** - [Brief Description]
-   - **Tech Stack**: [e.g., R, Shiny, ggplot2, etc.]
-   - **Features**: [List core features, e.g., "Data Analysis", "Interactive Charts"]
-   - **Link**: [GitHub Repo Link](URL) | [Live Demo](URL, if available)
 
 
 ---
