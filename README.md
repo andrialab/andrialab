@@ -39,8 +39,7 @@ Welcome to my GitHub portfolio!
 Here are some of the projects that I’ve worked on. Feel free to explore them and see what I've been up to!
 
 ### 1. **Bank Credit Risk Analysis: Probability of Default (PD) Model** - [Brief Description]
-   - **Tech Stack**: [e.g., Python, Flask, HTML/CSS, etc.]
-   - **Features**: [List core features or functionality, e.g., "User Authentication", "Data Visualization"]
+   - **Overview**: The goal of this project is to create a Probability of Default (PD) Model for banks and financial institutions. The model uses financial ratios and features derived from bank financial statements to predict whether a bank is likely to default within a specific time window. The analysis covers the entire process of data loading, cleaning, feature engineering, model building, and evaluation using ROC AUC scores.
    - **Link**: (https://github.com/andrialab/Bank-Default-Predict--Logistic-Regression)
 
 ### 2. **[Project Name]** - [Brief Description]
