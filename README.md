@@ -38,10 +38,10 @@ Welcome to my GitHub portfolio!
 
 Here are some of the projects that I’ve worked on. Feel free to explore them and see what I've been up to!
 
-### 1. **[Project Name]** - [Brief Description]
+### 1. **Bank Credit Risk Analysis: Probability of Default (PD) Model** - [Brief Description]
    - **Tech Stack**: [e.g., Python, Flask, HTML/CSS, etc.]
    - **Features**: [List core features or functionality, e.g., "User Authentication", "Data Visualization"]
-   - **Link**: [GitHub Repo Link](URL) | [Live Demo](URL, if available)
+   - **Link**: (https://github.com/andrialab/Bank-Default-Predict--Logistic-Regression)
 
 ### 2. **[Project Name]** - [Brief Description]
    - **Tech Stack**: [e.g., JavaScript, React, Node.js, etc.]
