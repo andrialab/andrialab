@@ -46,7 +46,7 @@ Here are some of the projects that I’ve worked on. Feel free to explore them a
    - **Overview**: This project focuses on analyzing motor vehicle collisions in New York City. It includes data preparation, cleaning, and visualization to identify trends and insights into crash incidents. The analysis covers key metrics such as injuries, fatalities, and vehicle involvement, leveraging Python and popular data science libraries.
    - **Link**: https://github.com/andrialab/NYC-Motor-Vehicle-Collision-Analysis
    - 
-### 3. **Credit-Default-Simulation** 
+### 3. **Individual Credit Default Simulation** 
    - **Overview**: Simulating the probability of default (PD) for borrowers over time using a stochastic process influenced by macro conditions, specifically unemployment rates.
    - **Link**: https://github.com/andrialab/Credit-Default-Simulation
 
